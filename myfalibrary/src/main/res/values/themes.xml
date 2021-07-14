@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.FALibraryApplication.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.FALibraryApplication.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.FALibraryApplication.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
