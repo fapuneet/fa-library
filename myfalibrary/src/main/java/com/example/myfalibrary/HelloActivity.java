@@ -13,12 +13,9 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.myfalibrary.databinding.ActivityHelloBinding;
-
 public class HelloActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
-    private ActivityHelloBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
